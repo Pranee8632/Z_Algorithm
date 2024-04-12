@@ -1,0 +1,7 @@
+aa
+ABCDE
+ABC
+AAB
+ABC
+ABC
+ABCDE
